@@ -1,1 +1,1 @@
-this is chapter 2 for git experiment
+this is chapter 2 for git experiment. These are the changes made after adding alien plot in chapteer 2
